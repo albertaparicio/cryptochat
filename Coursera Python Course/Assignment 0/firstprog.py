@@ -1,0 +1,1 @@
+print "What up people. Looking forward to learn Python."
